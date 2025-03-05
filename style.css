@@ -1,0 +1,43 @@
+body{
+background-color: rgba(101, 215, 230, 0.295);
+
+}
+.textbox{
+
+    padding-top: 20px;
+    display: block;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    padding-left: 30px;
+    border-radius: 30px;
+    padding-right: 30px;
+}
+
+.container-fluid{
+    background-color: rgba(101, 215, 230, 0.295);
+}
+
+
+
+.btn-check{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.divforreadmore{
+    align-items: center;
+    display: block;
+    margin-left: 600px;
+    margin-right: 30px;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: rgba(122, 152, 169, 0.356);
+}   
+
+.formclass{
+    width: 92%  ;
+}
+
